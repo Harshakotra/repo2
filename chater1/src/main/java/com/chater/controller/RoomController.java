@@ -12,7 +12,7 @@ import com.chater.service.RoomService;
 
 @RestController
 public class RoomController {
-	
+	//room service details
 	@Autowired
 	private RoomService roomService;
 	
